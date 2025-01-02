@@ -106,6 +106,25 @@
 - ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7)
 - ✨ 更多功能请见[配置参数](#配置)
 
+背景
+家里很多设备不支持ipv6协议,并且需要无成本的情况下,进行ipv6转ipv4源,并做到实时更新优质的ipv6转ipv4源,还需要可以公网访问该源
+
+参考教程项目
+https://www.right.com.cn/forum/thread-8333308-1-1.html
+https://github.com/Guovin/iptv-api
+
+
+我修改后的分支代码
+https://github.com/Zcodeoooo/iptv-api
+
+
+修改步骤
+1.openwrt本地启动脚本添加nginx &命令
+2. 由于openwrt默认就有nginx,故上传项目中的nginx.conf到路由器ssh目录 /etc/nginx/nginx.conf即可
+3.全局替换我的代码中的http://10.0.0.1:2025替换成你的openwrt路由器nginx地址端口即可
+4.参考原iptv-api项目中工作流的创建,并对config.ini进行配置
+4.即可使用外网地址访问内网源 https://cdn.jsdelivr.net/gh/{你的用户名}/{你的项目名}/output/result_to_ipv4.m3u
+
 ## 最新结果
 - 自用内网源:
 
