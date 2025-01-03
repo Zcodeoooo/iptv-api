@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="2025-01-03 06:13:40" tvg-logo="https://live.fanmingming.cn/tv/2025-01-03 06:13:40.png" group-title="🕘️更新时间",2025-01-03 06:13:40
+#EXTINF:-1 tvg-name="2025-01-03 18:16:23" tvg-logo="https://live.fanmingming.cn/tv/2025-01-03 18:16:23.png" group-title="🕘️更新时间",2025-01-03 18:16:23
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -1049,6 +1049,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000031076/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
@@ -1115,6 +1117,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.cn/tv/七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.cn/tv/七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="☘️上海频道",上海外语
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="☘️上海频道",上海外语
@@ -1129,6 +1133,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IAS$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="☘️上海频道",上海外语
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="☘️上海频道",上海外语
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
@@ -1189,6 +1195,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="☘️上海频道",东方影视
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="☘️上海频道",东方影视
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="☘️上海频道",东方财经
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="☘️上海频道",东方财经
@@ -1227,6 +1235,8 @@ http://10.0.0.1:2025/http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shand
 http://10.0.0.1:2025/http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="☘️上海频道",动漫秀场
 http://10.0.0.1:2025/http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226197/index.m3u8•IPV6『线路2』$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="☘️上海频道",动漫秀场
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
 http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000000172/1.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
@@ -1271,10 +1281,14 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="☘️上海频道",法治天地
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="☘️上海频道",法治天地
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="☘️上海频道",法治天地
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
@@ -1285,6 +1299,8 @@ http://10.0.0.1:2025/http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/第一财经.png" group-title="☘️上海频道",第一财经
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/第一财经.png" group-title="☘️上海频道",第一财经
@@ -1301,6 +1317,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/第一财经.png" group-title="☘️上海频道",第一财经
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/第一财经.png" group-title="☘️上海频道",第一财经
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="☘️上海频道",纪实人文
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="☘️上海频道",纪实人文
@@ -1317,6 +1335,8 @@ http://10.0.0.1:2025/http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="☘️江苏频道",优漫卡通
 http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="☘️江苏频道",优漫卡通
@@ -1363,6 +1383,8 @@ http://10.0.0.1:2025/http://[2409:8087:74d9:21::6]:80/270000001128/9900000074/in
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
+http://10.0.0.1:2025/http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.cn/tv/湖北综合.png" group-title="☘️湖北频道",湖北综合
 http://10.0.0.1:2025/http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.cn/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
@@ -1831,6 +1853,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="🏀体育频道",五星体育
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
@@ -1841,6 +1865,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IAS$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
 http://10.0.0.1:2025/http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.cn/tv/爱体育.png" group-title="🏀体育频道",爱体育
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.cn/tv/爱体育.png" group-title="🏀体育频道",爱体育
@@ -1921,6 +1947,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
@@ -1935,6 +1963,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+http://10.0.0.1:2025/http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
@@ -1953,6 +1983,8 @@ http://10.0.0.1:2025/http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shand
 http://10.0.0.1:2025/http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://10.0.0.1:2025/http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226197/index.m3u8•IPV6『线路2』$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.cn/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.cn/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
@@ -2027,6 +2059,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002
 http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
