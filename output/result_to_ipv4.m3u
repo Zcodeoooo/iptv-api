@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="2025-01-09 06:13:39" tvg-logo="https://live.fanmingming.cn/tv/2025-01-09 06:13:39.png" group-title="🕘️更新时间",2025-01-09 06:13:39
+#EXTINF:-1 tvg-name="2025-01-09 18:18:53" tvg-logo="https://live.fanmingming.cn/tv/2025-01-09 18:18:53.png" group-title="🕘️更新时间",2025-01-09 18:18:53
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -1527,6 +1527,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 http://10.0.0.1:2025/http://[2409:8087:74d6:22::7]:6410/270000001128/9900000067/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000067$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="☘️山东频道",山东教育
 http://10.0.0.1:2025/http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="☘️山东频道",山东教育
+http://10.0.0.1:2025/http://[2409:8087:1a09:df::401d]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/1.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="☘️吉林频道",延边卫视
 http://10.0.0.1:2025/http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226516/2.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="☘️吉林频道",延边卫视
