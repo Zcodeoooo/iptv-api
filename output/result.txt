@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-09 18:18:53,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+2025-01-10 06:14:34,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -583,6 +583,7 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 上海外语,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IAS$订阅源-IPv6-1920x1080
 上海外语,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 上海外语,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?$订阅源-IPv6-1920x1080
 上海新闻综合,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 上海新闻综合,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 上海新闻综合,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226620/index.m3u8$订阅源-IPv6-1920x1080
@@ -664,6 +665,9 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 法治天地,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 法治天地,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 法治天地,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IAShttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
+法治天地,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?$订阅源-IPv6-1920x1080
+法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 生活时尚,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 生活时尚,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226358/index.m3u8$订阅源-IPv6-1920x1080
 生活时尚,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226358/index.m3u8$订阅源-IPv6-1920x1080
@@ -687,6 +691,8 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 纪实人文,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002199/index.m3u8$订阅源-IPv6-1920x1080
 纪实人文,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6-1920x1080
 纪实人文,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?fmmv6$订阅源-IPv6-1920x1080
+纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
+纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$订阅源-IPv6-1920x1080
 都市剧场,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 都市剧场,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 都市剧场,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
