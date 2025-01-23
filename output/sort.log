@@ -2026,6 +2026,7 @@ Name: 重庆卫视, URL: http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.
 Name: 重庆卫视, URL: http://[2409:8087:1a0a:df::4039]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226409/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://[2409:8087:5e20:24::d]:6610/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 重庆卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265018/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014098/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -4722,6 +4723,7 @@ Name: 超级体育, URL: http://[2409:8087:5e08:24::d]:6610/000000001000/1000000
 Name: 超级体育, URL: http://[2409:8087:1a0a:df::4016]:80/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 超级体育, URL: http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 超级体育, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 超级体育, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 精品体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 精品体育, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 精品体育, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -4736,6 +4738,7 @@ Name: 精品体育, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/100000
 Name: 精品体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 精品体育, URL: http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 精品体育, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 精品体育, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 睛彩篮球, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 睛彩篮球, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000118$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 睛彩篮球, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
