@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="2025-02-11 18:16:47" tvg-logo="https://live.fanmingming.cn/tv/2025-02-11 18:16:47.png" group-title="🕘️更新时间",2025-02-11 18:16:47
+#EXTINF:-1 tvg-name="2025-02-12 06:13:37" tvg-logo="https://live.fanmingming.cn/tv/2025-02-12 06:13:37.png" group-title="🕘️更新时间",2025-02-12 06:13:37
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -1985,6 +1985,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e08:24::15]:6610/000000001000/3000000001
 http://10.0.0.1:2025/http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="咪咕直播2" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播2.png" group-title="🎥咪咕直播",咪咕直播2
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::15]:6610/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="咪咕直播2" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播2.png" group-title="🎥咪咕直播",咪咕直播2
+http://10.0.0.1:2025/http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="咪咕直播3" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播3.png" group-title="🎥咪咕直播",咪咕直播3
 http://10.0.0.1:2025/http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="咪咕直播3" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播3.png" group-title="🎥咪咕直播",咪咕直播3
