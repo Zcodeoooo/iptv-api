@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="2025-03-24 06:14:44" tvg-logo="https://live.fanmingming.cn/tv/2025-03-24 06:14:44.png" group-title="🕘️更新时间",2025-03-24 06:14:44
+#EXTINF:-1 tvg-name="2025-03-24 18:18:12" tvg-logo="https://live.fanmingming.cn/tv/2025-03-24 18:18:12.png" group-title="🕘️更新时间",2025-03-24 18:18:12
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://10.0.0.1:2025/http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -1935,6 +1935,8 @@ http://10.0.0.1:2025/http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 http://10.0.0.1:2025/http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.cn/tv/淘剧场.png" group-title="🎬电影频道",淘剧场
 http://10.0.0.1:2025/http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://live.fanmingming.cn/tv/淘娱乐.png" group-title="🎬电影频道",淘娱乐
+http://10.0.0.1:2025/http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.cn/tv/淘电影.png" group-title="🎬电影频道",淘电影
 http://10.0.0.1:2025/http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.cn/tv/淘电影.png" group-title="🎬电影频道",淘电影
